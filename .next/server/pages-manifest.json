@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/api/getNftsForOwner": "pages/api/getNftsForOwner.js"
+  "/api/getNftsForCollection": "pages/api/getNftsForCollection.js",
+  "/": "pages/index.js"
 }
